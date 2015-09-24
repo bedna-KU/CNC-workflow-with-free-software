@@ -1,6 +1,30 @@
 PathCAM
-http://jscut.org/jscut.html#
-http://www.makercam.com/
-http://openjscad.org/
-http://code.google.com/p/cam-occ/downloads/list
+
+3D GCODE generators
+jscut   http://jscut.org/jscut.html#   JavaScript
+makercam   http://www.makercam.com/   Javascript
+genericcam   http://sourceforge.net/projects/genericcam/?source=directory
+techne3dcam   http://sourceforge.net/projects/techne3dcam/?source=directory
+
+2D GCODE generators
+dxf2gcode   http://sourceforge.net/projects/dxf2gcode/?source=directory
+rfxcam   http://sourceforge.net/projects/rfxcam/?source=directory
+cadpy   http://sourceforge.net/projects/cadpy/files/?source=navbar
+svg2gcode   https://github.com/holgafreak/svg2gcode
+camelot   https://github.com/ghcmat/camelot
+
+Mathematical CAD
+openjscad   http://openjscad.org/   Javascript
+
+GCODE visualization
+cam-occ   http://code.google.com/p/cam-occ/downloads/list
+
+GCODE simulator
+node-gcode   https://github.com/ryansturmer/node-gcode   JavaScript
+
+PCB mill
+http://sourceforge.net/projects/visolate/
+
+Other
 http://www.payne.org/index.php/CNC_Projects
+http://www.vectric.com/cool-stuff/projects.html
